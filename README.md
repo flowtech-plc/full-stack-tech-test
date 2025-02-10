@@ -6,6 +6,18 @@ As part of your interview process, we'd like you to review a pull request for a 
 
 Your task is to review the code as if you were doing a code review for a team member. We want you to identify any issues, suggest improvements, and ensure that the implementation meets our acceptance criteria and best practices.
 
+## Getting Started
+
+Please follow these steps to conduct a review:
+
+1. Fork this repository
+2. Uncheck the 'Copy the `main` branch only' option
+3. Head to the Pull Requests tab and create a new pull request
+4. Ensure the base is set as `main` and not `flowtech-plc/main`
+5. For the compare branch, select `feat/book-api`
+6. Conduct your review on this PR
+7. Share back with us!
+
 ## Feature Description
 
 The Book Library feature should allow users to:
