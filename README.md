@@ -16,7 +16,7 @@ Please follow these steps to conduct a review:
 4. Ensure the base is set as `main` and not `flowtech-plc/main`
 5. For the compare branch, select `feat/book-api`
 6. Conduct your review on this PR
-7. Share back with us!
+7. Share your created pull request / review back with us!
 
 ## Feature Description
 
